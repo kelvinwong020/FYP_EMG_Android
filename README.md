@@ -20,7 +20,7 @@ The electrode circuit is responsible for collecting and amplifying the surface E
 
 These two components are enclosed into a compact 3D-printed enclosure. It is powered by attaching it to a power source via USB. Attaching the device to a power bank makes it portable.
 
-[Arduino Code](https://github.com/whiteunicorn3404/JQ03a-21_EMG_FYP)<br>
+# <a href="https://github.com/whiteunicorn3404/JQ03a-21_EMG_FYP">Arduino Code</a><br>
 ![Enclosure](/assets/img/FYP_0.png)
 ![EMG_Device](/assets/img/FYP_1.png)
 
