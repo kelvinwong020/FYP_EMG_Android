@@ -4,7 +4,9 @@ HKUST Final Year Project
 ![EMG Lift](/assets/img/EMG_Lift.png)
 ![System](/assets/img/emg_system_diagram.png)
 
-# <a href="https://youtu.be/pZxpOF_Pch0">YouTube Demo</a>
+<p><a href="https://youtu.be/pZxpOF_Pch0">
+<img src="/assets/img/emg_thumbnail.png">
+</a></p>
 
 # Description
 This project aims to build a portable and affordable personal muscle monitoring system, consisting of a wearable device containing EMG(Electromyography) sensors to track muscle signals and a mobile application (Android) to assist users in preventing muscle injuries during workouts or in daily life. The wearable device transmits real-time EMG data to the mobile application for signal analysis. When a drop in the median frequency in EMG is detected, the application will prompt the user to cease further activity to prevent injury. A TensorFlow model was included to classify the actions being taken by the user.
