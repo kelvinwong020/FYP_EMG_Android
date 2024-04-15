@@ -2,7 +2,7 @@
 HKUST Final Year Project
 
 ![EMG Lift](/assets/img/EMG_Lift.png)
-
+![System](/assets/img/emg_system_diagram.png)
 
 # <a href="https://youtu.be/pZxpOF_Pch0">YouTube Demo</a>
 
@@ -18,7 +18,9 @@ IDE Used: Android Studios, Arduino IDE
 # Electrode Circuit And Arduino Component
 The electrode circuit is responsible for collecting and amplifying the surface EMG signal; the arduino component is responsible for picking up the signal from the electrode circuit, package it, and send it to the mobile application for further analysis via BLE.
 
-These two components are enclosed into a compact 3D-printed enclosure. It is powered by attaching it to a power source via USB. Attaching the device to a power bank makes it portable.
+Non-invasive electrodes were used to avoid harm to the user and increase reusuability. In addition, it makes the system cheap to use and environmental friendly in the long run. There is also no concern for infection associated with invasive electrodes.
+
+These two components are enclosed into a compact 3D-printed enclosure. It is powered by attaching it to a power source via USB. Attaching the device to a power bank makes it portable. Overall, the enclosure is compacat and does not interfer with user movement, making it ideal for workouts.
 
 # <a href="https://github.com/whiteunicorn3404/JQ03a-21_EMG_FYP">Arduino Code</a><br>
 ![Enclosure](/assets/img/FYP_0.png)
