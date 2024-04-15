@@ -1,6 +1,7 @@
 # EMG Fitness Device
 HKUST Final Year Project
 
+### YouTube Demo
 <p><a href="https://youtu.be/pZxpOF_Pch0">
 <img src="/assets/img/emg_thumbnail.png">
 </a></p>
